@@ -1,3 +1,3 @@
 This is the location of the Estfeed application.
 
-Added git.
+Added git. And now added "app_1"
